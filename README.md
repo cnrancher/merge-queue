@@ -1,4 +1,4 @@
 # merge-queue
 merge-queue test
-merge-(2)
+merge-(3)
 merge-ok
